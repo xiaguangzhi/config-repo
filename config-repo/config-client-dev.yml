@@ -2,5 +2,3 @@ info:
   profile: dev
   from: git
 
-test:bbb
-hello:world
